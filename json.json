@@ -1,0 +1,361 @@
+[ {
+  "name" : "Tamil / தமிழ்",
+  "short_name" : "தமிழ்",
+  "language" : "ta",
+  "country" : "IN",
+}, {
+  "name" : "Assamese / অসমীয়া",
+  "short_name" : "অসমীয়া",
+  "language" : "as",
+  "country" : "IN",
+}, {
+  "name" : "Basa Sunda",
+  "language" : "su",
+  "country" : "ID",
+}, {
+  "name" : "Lietuvių",
+  "language" : "lt",
+  "country" : "LT",
+}, {
+  "name" : "Euskara",
+  "language" : "eu",
+  "country" : "ES",
+}, {
+  "name" : "Bengali / বাংলা",
+  "short_name" : "বাংলা",
+  "language" : "bn",
+  "country" : "IN",
+}, {
+  "name" : "简体中文",
+  "short_name" : "简",
+  "language" : "zh",
+  "country" : "CN",
+}, {
+  "name" : "اردو",
+  "language" : "ur",
+  "country" : "PK",
+}, {
+  "name" : "Română",
+  "language" : "ro",
+  "country" : "RO",
+}, {
+  "name" : "Malayalam / മലയാളം",
+  "short_name" : "മലയാളം",
+  "language" : "ml",
+  "country" : "IN",
+}, {
+  "name" : "Ελληνικά",
+  "language" : "el",
+  "country" : "GR",
+}, {
+  "name" : "Português (PT)",
+  "language" : "pt",
+  "country" : "PT",
+}, {
+  "name" : "English (UK)",
+  "language" : "en",
+  "country" : "GB",
+}, {
+  "name" : "Español (América Latina)",
+  "language" : "es",
+  "country" : "LA",
+}, {
+  "name" : "O'zbekcha",
+  "language" : "uz",
+  "country" : "UZ",
+}, {
+  "name" : "Slovenčina",
+  "language" : "sk",
+  "country" : "SK",
+}, {
+  "name" : "Català",
+  "language" : "ca",
+  "country" : "ES",
+}, {
+  "name" : "Sinhala / සිංහල",
+  "short_name" : "සිංහල",
+  "language" : "si",
+  "country" : "LK",
+}, {
+  "name" : "Norsk",
+  "language" : "nb",
+  "country" : "NO",
+}, {
+  "name" : "Беларуская",
+  "language" : "be",
+  "country" : "BY",
+}, {
+  "name" : "Oriya / ଓଡ଼ିଆ",
+  "short_name" : "ଓଡ଼ିଆ",
+  "language" : "or",
+  "country" : "IN",
+}, {
+  "name" : "Telugu / తెలుగు",
+  "short_name" : "తెలుగు",
+  "language" : "te",
+  "country" : "IN",
+}, {
+  "name" : "Marathi / मराठी",
+  "short_name" : "मराठी",
+  "language" : "mr",
+  "country" : "IN",
+}, {
+  "name" : "Bahasa Indonesia",
+  "language" : "id",
+  "country" : "ID",
+}, {
+  "name" : "Shqip",
+  "language" : "sq",
+  "country" : "AL",
+}, {
+  "name" : "Íslenska",
+  "language" : "is",
+  "country" : "IS",
+}, {
+  "name" : "Srpski",
+  "language" : "sr",
+  "country" : "RS",
+}, {
+  "name" : "Hinglish",
+  "language" : "hg",
+  "country" : "IN",
+}, {
+  "name" : "ລາວ",
+  "language" : "lo",
+  "country" : "LA",
+}, {
+  "name" : "Suomi",
+  "language" : "fi",
+  "country" : "FI",
+}, {
+  "name" : "Italiano",
+  "language" : "it",
+  "country" : "IT",
+}, {
+  "name" : "Bahasa Melayu",
+  "language" : "ms",
+  "country" : "MY",
+}, {
+  "name" : "Magyar",
+  "language" : "hu",
+  "country" : "HU",
+}, {
+  "name" : "繁體香港",
+  "short_name" : "繁",
+  "language" : "zh",
+  "country" : "HK",
+}, {
+  "name" : "Tiếng Việt",
+  "language" : "vi",
+  "country" : "VN",
+}, {
+  "name" : "Кыргызча",
+  "language" : "ky",
+  "country" : "KG",
+}, {
+  "name" : "Afrikaans",
+  "language" : "af",
+  "country" : "ZA",
+}, {
+  "name" : "Монгол",
+  "language" : "mn",
+  "country" : "MN",
+}, {
+  "name" : "Gujarati / ગુજરાતી",
+  "short_name" : "ગુજરાતી",
+  "language" : "gu",
+  "country" : "IN",
+}, {
+  "name" : "Türkçe",
+  "language" : "tr",
+  "country" : "TR",
+}, {
+  "name" : "Hindi / हिन्दी",
+  "short_name" : "हिन्दी",
+  "language" : "hi",
+  "country" : "IN",
+}, {
+  "name" : "Slovenščina",
+  "language" : "sl",
+  "country" : "SI",
+}, {
+  "name" : "Қазақ",
+  "language" : "kk",
+  "country" : "KZ",
+}, {
+  "name" : "Türkmençe",
+  "language" : "tk",
+  "country" : "TM",
+}, {
+  "name" : "Հայերեն",
+  "language" : "hy",
+  "country" : "AM",
+}, {
+  "name" : "Português (BR)",
+  "language" : "pt",
+  "country" : "BR",
+}, {
+  "name" : "Polski",
+  "language" : "pl",
+  "country" : "PL",
+}, {
+  "name" : "English (US)",
+  "language" : "en",
+  "country" : "US",
+}, {
+  "name" : "Gaeilge",
+  "language" : "ga",
+  "country" : "IE",
+}, {
+  "name" : "ភាសាខ្មែរ",
+  "language" : "km",
+  "country" : "KH",
+}, {
+  "name" : "Български",
+  "language" : "bg",
+  "country" : "BG",
+}, {
+  "name" : "Русский",
+  "language" : "ru",
+  "country" : "RU",
+}, {
+  "name" : "Українська",
+  "language" : "uk",
+  "country" : "UA",
+}, {
+  "name" : "Punjabi / ਪੰਜਾਬੀ",
+  "short_name" : "ਪੰਜਾਬੀ",
+  "language" : "pa",
+  "country" : "IN",
+}, {
+  "name" : "Český",
+  "language" : "cs",
+  "country" : "CZ",
+}, {
+  "name" : "繁體台灣",
+  "short_name" : "繁",
+  "language" : "zh",
+  "country" : "TW",
+}, {
+  "name" : "עברית",
+  "language" : "he",
+  "country" : "IL",
+}, {
+  "name" : "Français (CA)",
+  "language" : "fr",
+  "country" : "CA",
+}, {
+  "name" : "Español (ES)",
+  "language" : "es",
+  "country" : "ES",
+}, {
+  "name" : "Kannada / ಕನ್ನಡ",
+  "short_name" : "ಕನ್ನಡ",
+  "language" : "kn",
+  "country" : "IN",
+}, {
+  "name" : "فارسی",
+  "language" : "fa",
+  "country" : "IR",
+}, {
+  "name" : "English (AU)",
+  "language" : "en",
+  "country" : "AU",
+}, {
+  "name" : "Basa Jawa",
+  "language" : "jv",
+  "country" : "ID",
+}, {
+  "name" : "English (CA)",
+  "language" : "en",
+  "country" : "CA",
+}, {
+  "name" : "Cymraeg",
+  "language" : "cy",
+  "country" : "GB",
+}, {
+  "name" : "Latviešu",
+  "language" : "lv",
+  "country" : "LV",
+}, {
+  "name" : "한국어",
+  "language" : "ko",
+  "country" : "KR",
+}, {
+  "name" : "Hrvatski",
+  "language" : "hr",
+  "country" : "HR",
+}, {
+  "name" : "Deutsch",
+  "language" : "de",
+  "country" : "DE",
+}, {
+  "name" : "Azərbaycanca",
+  "language" : "az",
+  "country" : "AZ",
+}, {
+  "name" : "Татарча",
+  "language" : "tt",
+  "country" : "RU",
+}, {
+  "name" : "Français (FR)",
+  "language" : "fr",
+  "country" : "FR",
+}, {
+  "name" : "Tagalog",
+  "language" : "tl",
+  "country" : "PH",
+}, {
+  "name" : "Español (US)",
+  "language" : "es",
+  "country" : "US",
+}, {
+  "name" : "Тоҷикӣ",
+  "language" : "tg",
+  "country" : "TJ",
+}, {
+  "name" : "ქართული",
+  "language" : "ka",
+  "country" : "GE",
+}, {
+  "name" : "Nepali / नेपाली",
+  "short_name" : "नेपाली",
+  "language" : "ne",
+  "country" : "NP",
+}, {
+  "name" : "Македонски",
+  "language" : "mk",
+  "country" : "MK",
+}, {
+  "name" : "Bosanski",
+  "language" : "bs",
+  "country" : "BA",
+}, {
+  "name" : "Svenska",
+  "language" : "sv",
+  "country" : "SE",
+}, {
+  "name" : "Dansk",
+  "language" : "da",
+  "country" : "DK",
+}, {
+  "name" : "Galego",
+  "language" : "gl",
+  "country" : "ES",
+}, {
+  "name" : "ไทย",
+  "language" : "th",
+  "country" : "TH",
+}, {
+  "name" : "Eesti",
+  "language" : "et",
+  "country" : "EE",
+}, {
+  "name" : "العربية",
+  "language" : "ar",
+  "country" : "SA",
+}, {
+  "name" : "Nederlands",
+  "language" : "nl",
+  "country" : "NL",
+} ]
